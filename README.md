@@ -907,3 +907,20 @@ https://infosys-ai-knowledge-assistant-ifkw.onrender.com
 This project was developed as an educational/project demonstration of an enterprise AI knowledge assistant.
 
 Any synthetic documents, example employee data, incident records, policies, operational procedures, or other demonstration content included in the project are created for testing and demonstration purposes and do not represent official Infosys documentation or policy.
+
+## 25 Group Members 
+
+| No. | Name                                            |
+| --: | ------------------------ 
+|   1 | M.S. Pavan Shankar       
+|   2 | Chandra Akash Kiran      
+|   3 | Shruti Vishwas Deshpande 
+|   4 | Soumyakanta Mishra       
+|   5 | Sayan Modak         
+|   6 | Pulkit Narang            
+|   7 | Subhansu Bose           
+|   8 | Sanket Arun Patil       
+
+## 26 Demo Video
+
+[Watch the Project Demo](PASTE-YOUR-DEMO-VIDEO-LINK-HERE)
