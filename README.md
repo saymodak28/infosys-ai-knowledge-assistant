@@ -890,7 +890,7 @@ Current implementation includes:
 
 GitHub:
 
-https://github.com/pulkitn-analytics/infosys-ai-knowledge-assistant
+https://github.com/saymodak28/infosys-ai-knowledge-assistant.git
 
 Live application:
 
