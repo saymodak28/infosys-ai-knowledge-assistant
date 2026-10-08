@@ -923,4 +923,4 @@ Any synthetic documents, example employee data, incident records, policies, oper
 
 ## 26 Demo Video
 
-[Watch the Project Demo](PASTE-YOUR-DEMO-VIDEO-LINK-HERE)
+[Watch the Project Demo](https://drive.google.com/drive/folders/1uQ8W4ib_x2wj60pWyfuGDRvd_sR5ldmw?usp=sharing)
